@@ -13,16 +13,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.mgdis.backend</groupId>
-	<artifactId>lightweightcmis</artifactId>
+	<artifactId>lightweightcmis-0.12</artifactId>
 	<name>OpenCMIS Server WAR packaging</name>
 	<packaging>war</packaging>
 	<properties>
-		<opencmis-version>0.13.0</opencmis-version>
+		<opencmis-version>0.12.0</opencmis-version>
 		<build-version>1.0.0-SNAPSHOT</build-version>
 		<junit.version>4.11</junit.version>
 		<slf4j.version>1.7.5</slf4j.version>
 	</properties>
-	<version>0.13.0-SNAPSHOT</version>
+	<version>0.12.0-SNAPSHOT</version>
 	<build>
 		<plugins>
 			<plugin>
